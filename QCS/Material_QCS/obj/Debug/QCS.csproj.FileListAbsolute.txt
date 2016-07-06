@@ -1,0 +1,11 @@
+C:\Users\NEXT Speed\Desktop\QCS\Material_QCS\bin\Debug\Material_QCS.exe.config
+C:\Users\NEXT Speed\Desktop\QCS\Material_QCS\obj\Debug\Material_QCS.exe
+C:\Users\NEXT Speed\Desktop\QCS\Material_QCS\obj\Debug\Material_QCS.pdb
+C:\Users\NEXT Speed\Desktop\QCS\Material_QCS\bin\Debug\Material_QCS.exe
+C:\Users\NEXT Speed\Desktop\QCS\Material_QCS\bin\Debug\Material_QCS.pdb
+C:\Users\NEXT Speed\Desktop\QCS\Material_QCS\bin\Debug\MaterialSkin.dll
+C:\Users\NEXT Speed\Desktop\QCS\Material_QCS\bin\Debug\MaterialSkin.pdb
+C:\Users\NEXT Speed\Desktop\QCS\Material_QCS\obj\Debug\QCS.csprojResolveAssemblyReference.cache
+C:\Users\NEXT Speed\Desktop\QCS\Material_QCS\obj\Debug\Material_QCS.Properties.Resources.resources
+C:\Users\NEXT Speed\Desktop\QCS\Material_QCS\obj\Debug\QCS.csproj.GenerateResource.Cache
+C:\Users\NEXT Speed\Desktop\QCS\Material_QCS\obj\Debug\MaterialSkinExample.MainForm.resources
